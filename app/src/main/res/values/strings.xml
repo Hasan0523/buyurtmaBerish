@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BuyurtmaBerish</string>
+    <string name="hamburger" />
+    <string name="sandwich" />
+    <string name="hot_dog" />
+    <string name="coca_cola" />
+    <string name="sharbat" />
+    <string name="buyurtma" />
+    <string name="Hamburger">hamburger</string>
+    <string name="Coca_cola">Coca cola</string>
+    <string name="Sharbat">sharbat</string>
+    <string name="Sandwich">Sandwich</string>
+    <string name="Hot_dog">hot_dog</string>
+    <string name="Buyurtma">Buyurtma</string>
+</resources>
